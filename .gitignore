@@ -1,0 +1,16 @@
+
+# Environments
+.env
+.venv/
+env/
+ENV/
+venv/
+venv.bak/
+env.bak/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
